@@ -77,7 +77,7 @@ PsychicResult =
     BigWolf: "BigWolf"
     # TinyFox
     TinyFox: "TinyFox"
-    # priority of resutls in chemical.
+    # priority of results in chemical.
     _chemicalPriority:
         human: 0
         werewolf: 1
